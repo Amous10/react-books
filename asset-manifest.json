@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-books/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-books/static/js/main.04a4016c.chunk.js",
+    "main.js.map": "/react-books/static/js/main.04a4016c.chunk.js.map",
+    "runtime~main.js": "/react-books/static/js/runtime~main.deca0de0.js",
+    "runtime~main.js.map": "/react-books/static/js/runtime~main.deca0de0.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react-books/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react-books/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react-books/index.html",
+    "precache-manifest.a8332d1236ad5bb6df2d3cd91338a70c.js": "/react-books/precache-manifest.a8332d1236ad5bb6df2d3cd91338a70c.js",
+    "service-worker.js": "/react-books/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-books/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-books/static/media/logo.5d5d9eef.svg"
+  }
+}
